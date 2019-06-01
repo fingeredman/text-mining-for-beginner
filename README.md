@@ -25,7 +25,7 @@
 - DAY 12. 실전 텍스트 분석하기: LDA토픽모델링, 감성분석
 
 > ### Appendix. 참고자료
-- APPENDIX 01. 텍스트 분석을 위해 Python 설치하기
+- APPENDIX 01. 텍스트 분석을 위한 Python 설치하기
 
 ---
 ## References
