@@ -10,12 +10,12 @@
 ---
 ## Curriculum
 
-### 이론
+### 이론 (lecture-note)
 - Part 1. 텍스트 마이닝 개요 알아보기
 - Part 2. 텍스트 마이닝 실무 활용사례 알아보기
 - Part 3. 텍스트 마이닝 절차 알아보기: 수집, 전처리, 분석, 그리고 시각화
 
-### 실습
+### 실습 (practice-note)
 > ### Part 1. Python 기초
 - DAY 01. Python 기초문법 알아보기
 - DAY 02. Python 자료구조 이해하기
