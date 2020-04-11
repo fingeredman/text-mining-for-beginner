@@ -8,6 +8,10 @@
 - **Contact : FINGEREDMAN(fingeredman@gmail.com)**
 
 ---
+## Notice!
+> - 본 자료는 2018~19년도 패스트캠퍼스 `텍스트 분석 유치원` 강의자료로 활용되었습니다.
+
+---
 ## Curriculum
 
 ### 이론 (lecture-note)
