@@ -45,7 +45,7 @@
 ## References
 > 본 강의자료는 아래 문헌들을 참고해 구성되었습니다.
 - A Byte of Python [(Link)](https://python.swaroopch.com/)
-- 패스트캠퍼스 <텍스트 분석 유치원 1기~5기> 실습자료 [(Link)](https://www.fastcampus.co.kr/data_class_textmining/)
+- 패스트캠퍼스 <텍스트 분석 유치원 1기~5기> [(Link)](https://www.fastcampus.co.kr/data_class_textmining/)
 
 ---
 ## Update History
