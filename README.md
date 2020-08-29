@@ -50,6 +50,7 @@
 ---
 ## Update History
 > 
+2019.08.29. Part 1\~3 강의자료 업데이트  
 2019.06.12. Part 1\~2 강의자료 업로드  
 2019.06.11. DAY 12 실습자료, 실습 데이터 업로드  
 2019.06.10. DAY 11 실습자료 업로드  
@@ -65,4 +66,4 @@
 
 <br><br>
 ---
-<center>ⓒ 2020. FINGEREDMAN all rights reserved.</center>
+<center>ⓒ 2020. Jeon Byeong-Jin all rights reserved.</center>
