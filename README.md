@@ -66,4 +66,4 @@
 
 <br><br>
 ---
-<center>ⓒ 2020. Jeon Byeong-Jin all rights reserved.</center>
+<center>ⓒ 2020. FINGEREDMAN all rights reserved.</center>
