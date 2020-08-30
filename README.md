@@ -9,6 +9,7 @@
 
 ---
 ## Notice!
+> - 강의자료 및 실습자료가 2020년 8월 31일 새로운  업데이트되었습니다.
 > - 본 자료는 2018~2019년도 `패스트캠퍼스 <텍스트 분석 유치원>` 강의자료로 활용되었습니다.
 
 ---
@@ -21,26 +22,26 @@
 
 ### 실습 (practice-note)
 > ### Part 1. Python 기초
-- DAY 01. Python 기초문법 알아보기
-- DAY 02. Python 자료구조 이해하기
-- DAY 03. Python 조건문과 반복문 다루기
-- DAY 04. Python 함수와 파일 만들고 호출하기
+- DAY 01. Python 기초문법 알아보기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/01_text-mining-for-beginner_python-basic.ipynb)
+- DAY 02. Python 자료구조 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/02_text-mining-for-beginner_python-data-structure.ipynb)
+- DAY 03. Python 조건문과 반복문 다루기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/03_text-mining-for-beginner_python-conditional%26loop.ipynb)
+- DAY 04. Python 함수와 파일 만들고 호출하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/04_text-mining-for-beginner_python-function%26file.ipynb)
 
 > ### Part 2. Python을 활용한 데이터 수집
-- DAY 05. 데이터 크롤링 원리 이해하기
-- DAY 06. 정적 페이지 수집하기: 실시간검색어, 영화댓글
-- DAY 07. 동적 페이지 수집하기: 네이버 카페
-- DAY 08. 동적 페이지 수집하기: 인스타그램
+- DAY 05. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/05_text-mining-for-beginner_python-crawling-intro.ipynb)
+- DAY 06. 정적 페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/06_text-mining-for-beginner_python-crawling-practice-1.ipynb)
+- DAY 07. 동적 페이지 수집하기: 네이버 카페 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/07_text-mining-for-beginner_python-crawling-practice-2.ipynb)
+- DAY 08. 동적 페이지 수집하기: 인스타그램 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/08_text-mining-for-beginner_python-crawling-practice-3.ipynb)
 
 > ### Part 3. Python을 활용한 텍스트 분석
-- DAY 09. 한국어 텍스트 전처리 실습하기: KoNLPy
-- DAY 10. 영어 텍스트 전처리 실습하기: NLTK
-- DAY 11. 실전 텍스트 분석하기: 단어빈도분석, 연관단어분석
-- DAY 12. 실전 텍스트 분석하기: LDA토픽모델링, 감성분석
+- DAY 09. 한국어 텍스트 전처리 실습하기: KoNLPy [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/09_text-mining-for-beginner_python-korean-nlp.ipynb)
+- DAY 10. 영어 텍스트 전처리 실습하기: NLTK [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/10_text-mining-for-beginner_python-english-nlp.ipynb)
+- DAY 11. 실전 텍스트 분석하기: 단어빈도분석, 연관단어분석 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/11_text-mining-for-beginner_python-text-analysis-1.ipynb)
+- DAY 12. 실전 텍스트 분석하기: LDA토픽모델링, 감성분석 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/12_text-mining-for-beginner_python-text-analysis-2.ipynb)
 
 > ### Appendix. 참고자료
 - APPENDIX 01. 텍스트 분석을 위한 Python 분석환경 설치하기
-- APPENDIX 02. Assignment: 영화댓글 수집기
+- APPENDIX 02. Assignment: 영화댓글 수집기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-beginner/blob/master/practice-note/text-mining-for-beginner-appendix2.ipynb)
 ---
 ## References
 > 본 강의자료는 아래 문헌들을 참고해 구성되었습니다.
@@ -49,8 +50,7 @@
 
 ---
 ## Update History
-> 
-2019.08.29. Part 1\~3 강의자료 업데이트  
+> 2019.08.31. Part 1\~3 강의자료 업데이트  
 2019.06.12. Part 1\~2 강의자료 업로드  
 2019.06.11. DAY 12 실습자료, 실습 데이터 업로드  
 2019.06.10. DAY 11 실습자료 업로드  
